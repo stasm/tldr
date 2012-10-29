@@ -1,0 +1,39 @@
+Finishing a game
+================
+
+by DEREK YU
+Published: September 17, 2010
+Website: Make Games
+Source: http://makegames.tumblr.com/post/1136623767/finishing-a-game
+
+
+Quotes
+------
+
+  “ The fact is, if we all had unlimited resources and unlimited time, 
+    we’d all make the same crappy, meandering everything game and 
+    there’d be no reason to play at all. It’s our limited resources and 
+    time that forces us to make tight games that feel like they have 
+    a purpose.
+
+
+Related
+-------
+
+  “ You never, ever run out of things to implement… at some point, you 
+    have to make the judgement call that the time lost by working 
+    longer is more important than the additional things you could bring 
+    to the game.  I think we called it pretty good with Doom.
+
+    — John Carmack¹
+
+
+References
+----------
+
+¹ http://www.pcgamesn.com/article/making-doom-ids-shooter-masterpiece
+
+
+-- 
+curated by Staś Małolepszy
+http://informationisart.com/tldr
