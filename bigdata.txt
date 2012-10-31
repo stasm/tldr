@@ -1,0 +1,51 @@
+Analyzing Big Data Is Returning an Edge to Microsoft
+====================================================
+
+by QUENTIN HARDY
+Published: October 29, 2012
+Website: The New York Times
+Source: http://www.nytimes.com/2012/10/30/technology/microsoft-renews-relevance-with-machine-learning-technology.html
+
+
+Summary
+-------
+
+  - Advanced machine learning is coming to many MS products next year.
+
+  - It's about time, the competition have not been waiting.
+
+  - MS's advantage is access to tons of data, thanks to multiple points 
+    of presence, and vast resources.
+
+  - Azure + data from the XBox & Bing = MS can take on Google and AWS.
+
+  - MS may eventually sell services created by software, in addition to 
+    the software itself.
+
+
+Quotes
+------
+
+  “ If its new products work as advertised, Microsoft will find itself 
+    in a position it has not occupied for the last few years: relevant 
+    to where technology is going.
+
+  “ Like other giants, Microsoft also has something that start-ups like 
+    Kaggle do not: immense amounts of money — $67 billion in cash and 
+    short-term investments at the end of the last quarter — and the 
+    ability to work for 10 years, or even 20, on a big project.
+
+  “ M.S.R. [Microsoft Research] employs 850 Ph.D.’s in 13 labs around 
+    the world. They work in more than 55 areas of computing, including 
+    algorithm theory, cryptography and computational biology.
+
+  “ Mr. Horvitz started making prototypes of the Outlook assistant 
+    about 15 years ago. He keeps digital records of every e-mail, 
+    appointment and phone call so the software can learn when his 
+    meetings might run long, or which message he should answer first.  
+    “Major shifts depend on incremental changes,” he said.
+
+
+-- 
+curated by Staś Małolepszy
+http://informationisart.com/tldr
