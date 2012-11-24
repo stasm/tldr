@@ -1,0 +1,46 @@
+Programming is a Pop Culture
+============================
+
+by RAGANWALD
+Published: November 1, 2012
+Website: raganwald's posterous
+Source: http://raganwald.posterous.com/programming-is-a-pop-culture
+
+
+Summary
+-------
+
+  - Programming is a science, but also much more than just a science.  It's the 
+    people that matter.  The side effects are trends and fashion.
+
+  - It is unreasonable to reject the human and the social aspect of the 
+    programming culture.
+
+  - The pop culture in programming makes it more unpredictable.  The 
+    unexpetedness can lead to 'Aha!' moments.
+
+
+Quotes
+------
+
+  “ [Alan Kay's] suggestion is that programming is a Pop Culture, because it 
+    spreads much, much faster than education and formal study spreads. 
+
+  “ This is one of the reasons why many experienced programmers spend some time 
+    on “social” programming sites like Hacker news, Reddit, or Stack Overflow. 
+    In a pop culture, keeping up with the trends is necessary to do your job. 
+    You can’t design clothes if you spend all your time in a laboratory 
+    analyzing fabrics and talking manufacturing techniques, you have to get out 
+    in the streets and clubs and cafés and soak up the culture.
+
+  “ Much as a record producer will encourage the musicians to avoid complex 
+    chord progressions as being “Inaccessible to the masses.” If you want to 
+    get your message out, you must work in gentle, gradual steps that nudge the 
+    listener small steps at a time. You must build your bowers and flash your 
+    plumage. You must dance and sing. You must write blog posts and speak at 
+    conferences.
+
+
+-- 
+curated by Staś Małolepszy
+http://informationisart.com/tldr
